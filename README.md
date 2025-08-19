@@ -3,6 +3,7 @@ Showing the steps in creating a Azure Resource Group.
 
 ## Installation
 - Log in the azure portal
+- 
 - Within the navigation board you may see the resource tab there. If not type it in the search bar and click it.
 - Click the plus sign for create. You will see your subscription select your subscription then name your resource group. Iusually start it off with RG
 - Make sure to put Hyphens in between each word in the Resource Group name.
